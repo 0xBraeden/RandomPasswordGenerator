@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16ac207b-36a3-42a5-ace4-5fdebdd8283a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.000004032208308" />
+      <entry key="MS500" value="1.0887621583319689" />
+      <entry key="S2" value="1.8081183478616194" />
+      <entry key="S5" value="2.373064692095014" />
+      <entry key="S10" value="2.663834708837868" />
+      <entry key="S30" value="3.4747056667135294" />
+      <entry key="S60" value="5.5200061215685645" />
+      <entry key="M2" value="11.265963867307413" />
+      <entry key="M5" value="38.365244804105956" />
+      <entry key="M10" value="87.7653383543186" />
+      <entry key="M15" value="126.73344315428955" />
+      <entry key="M30" value="196.88922376834097" />
+      <entry key="H1" value="255.2457384115041" />
+      <entry key="H2" value="294.61731518461477" />
+      <entry key="H4" value="317.84981528907434" />
+      <entry key="D1" value="339.41769588955975" />
+      <entry key="W1" value="343.33959279701054" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0302338381646729E-209" />
+      <entry key="MS500" value="1.5943628340861652E-42" />
+      <entry key="S2" value="3.553509412957384E-11" />
+      <entry key="S5" value="6.705619710937223E-5" />
+      <entry key="S10" value="0.009105228206921159" />
+      <entry key="S30" value="0.3116580639498106" />
+      <entry key="S60" value="0.9039647679711977" />
+      <entry key="M2" value="1.8660237202631045" />
+      <entry key="M5" value="3.8774850290874694" />
+      <entry key="M10" value="6.434543724202348" />
+      <entry key="M15" value="8.705996845240035" />
+      <entry key="M30" value="13.388748865646843" />
+      <entry key="H1" value="17.580719587035414" />
+      <entry key="H2" value="20.443696508538075" />
+      <entry key="H4" value="22.124752401697815" />
+      <entry key="D1" value="23.672981786808577" />
+      <entry key="W1" value="23.952914861786883" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8408993875339397" />
+      <entry key="MS500" value="1.0494251042803426" />
+      <entry key="S2" value="1.7869846364002784" />
+      <entry key="S5" value="2.3610612426401345" />
+      <entry key="S10" value="2.66491200053521" />
+      <entry key="S30" value="3.767531303009566" />
+      <entry key="S60" value="6.38900944896197" />
+      <entry key="M2" value="13.080068009279888" />
+      <entry key="M5" value="42.173037516304866" />
+      <entry key="M10" value="94.1282775542702" />
+      <entry key="M15" value="135.37256495251606" />
+      <entry key="M30" value="210.22698636820058" />
+      <entry key="H1" value="272.79362871150255" />
+      <entry key="H2" value="315.04214488735334" />
+      <entry key="H4" value="339.9644180968469" />
+      <entry key="D1" value="363.0888762261967" />
+      <entry key="W1" value="367.29224747031896" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3FPZHrGlcNleLXLOS3EErFLfIRG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.main.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="QodanaHighlightedReportService">
+    <option name="localRunNotPublishedPersistedInfo">
+      <LocalReportPersistedInfo>
+        <option name="path" value="/private/var/folders/3w/qtf23n7n77z6k53pt96z3lzh0000gn/T/qodana_output/qodana.sarif.json" />
+        <option name="reportGuid" value="9d47764c-53db-457f-a5e0-5c51f3e0c1de" />
+        <option name="reportName" value="Website Development/qodana/2026-06-20" />
+      </LocalReportPersistedInfo>
+    </option>
+  </component>
+  <component name="QodanaIsSelectedPersistenceService">
+    <option name="selectedOrLoading" value="true" />
+  </component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="/private/var/folders/3w/qtf23n7n77z6k53pt96z3lzh0000gn/T/qodana_output/qodana.sarif.json" reportGuid="9d47764c-53db-457f-a5e0-5c51f3e0c1de" reportId="Website Development/qodana/2026-06-20" />
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.25134.101" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16ac207b-36a3-42a5-ace4-5fdebdd8283a" name="Changes" comment="" />
+      <created>1781978579869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781978579869</updated>
+      <workItem from="1781978581430" duration="7076000" />
+      <workItem from="1782092157753" duration="163000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
