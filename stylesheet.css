@@ -3,6 +3,7 @@ body {
     padding: 0;
     /* Aligned Items to be centered on page and adjust with screen/browser size */
     min-height: 100vh;
+    min-width: 100vw;
     display: flex;
     flex-direction: column;
     justify-content: center;
