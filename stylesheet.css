@@ -1,6 +1,13 @@
 body {
     margin: 0;
     padding: 0;
+    /* Aligned Items to be centered on page and adjust with screen/browser size */
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
     background: #1F2937;
 }
 
@@ -26,13 +33,14 @@ hr {
     height: 1px;
     border: 0;
     border-top: 1px solid #E1E1E1;
-    margin: 10px 10px 10px 10px;
+    width: min(90vw, 400px);
+    margin: 10px auto;
 }
 
 #btnClick {
     display: block;
     padding: 10px;
-    margin: 10px;
+    margin: 10px auto;
     color: #F9FAFB;
     border-radius: 25px;
     border: #379F62FF solid 1px;
@@ -45,15 +53,21 @@ hr {
 
 .randomPassword {
     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
 }
 
 #pass1, #pass2 {
-    justify-content: center;
     border-radius: 10px;
     width: 175px;
-    height: 16px;
+    min-height: 16px;
     display: flex;
-    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    white-space: nowrap;
+    overflow: hidden;
     background: #273549;
     color: #55F991;
     padding: 10px;
